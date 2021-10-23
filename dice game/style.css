@@ -7,11 +7,24 @@
   .dice {
     text-align: center;
     display: inline-block;
-  
+  }
+
+  .btn{
+    text-align: center;
+    font-size: 2rem;
+    background-color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    margin-top: 5%;
+    padding: 14px 40px;
+    
   }
   
+  .btnCon{
+    text-align: center;
+  }
+
   body {
-    background-color: #393E46;
+    background-color: #6D8299;
   }
   
   h1 {
